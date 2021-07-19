@@ -10,7 +10,7 @@ public abstract class Graph {
 	}
 
 	public abstract void addEdge(int x, int y);
-//in một đồ thị dạng ma trận
+//in một đồ thị dạng ma trận 123 23
 	public void printAddMatrix() {
 		for (int i = 0; i < adj.length; i++) {
 			for (int j = 0; j < adj.length; j++) {
