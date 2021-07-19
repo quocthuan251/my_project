@@ -19,7 +19,7 @@ public abstract class Graph {
 			System.out.print("\n");
 		}
 	}
-	//kiem tra lien thong giua 2 dinh
+	//kiem tra lien thong giua 2 dinh 123123
 	public abstract boolean isconectedDegree2(int a, int b);
 	//đếm số cạnh
 	public abstract int countEdges();
